@@ -1,8 +1,7 @@
 ###Olá Olá! Eu sou a Kamilly
 - Cursando Desenvolvimento de Sistemas
   
-<div style="display:flex; flex-flow:row">
-  
+<div>
   <a href="https://github.com/kamillynaara/github-readme-stats">
     <img height=160m align="center" src="https://github-readme-stats.vercel.app/api?username=kamillynaara&theme=dracula" />
   </a>
