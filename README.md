@@ -3,7 +3,7 @@
   
 <div>
   <a href="https://github.com/kamillynaara/github-readme-stats">
-    <img height=160em width=42% align="center" src="https://github-readme-stats.vercel.app/api?username=kamillynaara&theme=dracula" />
+    <img height=160em width=35% align="center" src="https://github-readme-stats.vercel.app/api?username=kamillynaara&theme=dracula" />
   </a>
 
   <a href="https://github.com/kamillynaara/convoychat">
