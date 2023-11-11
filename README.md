@@ -1,4 +1,4 @@
-###Olá Olá! Eu sou a Kamilly
+##Olá Olá! Eu sou a Kamilly
 - Cursando Desenvolvimento de Sistemas
   
 <div>
@@ -7,6 +7,6 @@
   </a>
 
   <a href="https://github.com/kamillynaara/convoychat">
-    <img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillynaara&hide_progress=true&theme=dracula&langs_count=8" />
+    <img height=160em width=100em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillynaara&hide_progress=true&theme=dracula&langs_count=8" />
   </a>
 </div>
