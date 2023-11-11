@@ -7,6 +7,6 @@
   </a>
 
   <a href="https://github.com/kamillynaara/convoychat">
-    <img height=160em width=42% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillynaara&hide_progress=true&theme=dracula&langs_count=8" />
+    <img height=160em width=25% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillynaara&hide_progress=true&theme=dracula&langs_count=8" />
   </a>
 </div>
