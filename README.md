@@ -1,5 +1,5 @@
 # Olá Olá! Eu sou a Kamilly  
-* Conta pessoal
+* Clique aqui para ir até minha conta de estudante: <https://github.com/kamillynaaraa>
 
 <div>
   <a href="https://github.com/kamillynaara/github-readme-stats">
