@@ -1,5 +1,5 @@
-# Olá Olá! Eu sou a Kamilly  
-* Clique aqui para ir até minha conta de estudante: <https://github.com/kamillynaaraa>
+# Oiê! Eu sou a Kamilly  
+* Caso você queira ir até minha conta de estudante, clique aqui: <https://github.com/kamillynaaraa>
 
 <div>
   <a href="https://github.com/kamillynaara/github-readme-stats">
