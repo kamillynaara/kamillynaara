@@ -1,4 +1,4 @@
-# Oiê! Eu sou a Kamilly  
+# Olá Olá! Eu sou a Kamilly  
 * Caso você queira ir até minha conta de estudante, clique aqui: <https://github.com/kamillynaaraa>
 
 <div>
